@@ -40,6 +40,7 @@ const Header = () => {
       </div>
       <button className="hamburger" onClick={toggleExpanded}>
         <MenuIcon />
+      </button>
         {isExpanded && (
           <div className="menu-overlay">
             <div className="menu-links">
@@ -52,7 +53,6 @@ const Header = () => {
             </div>
           </div>
         )}
-      </button>
     </header>
   );
 };
