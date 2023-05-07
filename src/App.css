@@ -31,7 +31,7 @@ span.highlighted {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: stretch;
+  align-items: center;
   align-self: flex-end;
 }
 
