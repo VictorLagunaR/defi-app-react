@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(180deg, #121212 0%, #272764 100%);
 }
 
 code {
@@ -19,6 +20,10 @@ code {
 a{
   text-decoration: none;
   color: #fff;
+}
+
+section{
+  width: 75%;
 }
 
 .header-container{
@@ -49,6 +54,9 @@ a{
 }
 
 @media only screen and (max-width: 768px) {
+  section{
+    width: 85%;
+  }
   .header-container .menu, .wallet-btn {
    display: none;
   }

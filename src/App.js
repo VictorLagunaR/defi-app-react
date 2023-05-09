@@ -45,7 +45,7 @@ function App() {
       <HeroSection />
       <DailyStats />
       <FeatureOne />
-      <div className='features-list-container'>
+      <section className='features-list-container'>
         {
           features.map((feature, index) => {
             return (
@@ -53,7 +53,7 @@ function App() {
             )
           })
         }
-      </div>
+      </section>
       <DevSection />
       <SocialMediaPromotion/>
       <BlogSection />

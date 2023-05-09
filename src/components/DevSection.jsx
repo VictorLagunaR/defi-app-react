@@ -5,7 +5,7 @@ function DevSection() {
   return (
     <section className="dev-section-container">
       <h1 className="dev-section-title">
-        Builidin Cros*Chain <span className="highlighted">Together</span>
+        Builidin Cross-Chain <span className="highlighted">Together</span>
       </h1>
       <div className="dev-section-wrapper">
         <div className="dev-section-text">
