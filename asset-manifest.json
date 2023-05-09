@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/defi-app-react/static/css/main.dfde5b12.css",
-    "main.js": "/defi-app-react/static/js/main.47ca46d4.js",
+    "main.css": "/defi-app-react/static/css/main.ab59e408.css",
+    "main.js": "/defi-app-react/static/js/main.849f3a05.js",
     "static/js/787.b0da207e.chunk.js": "/defi-app-react/static/js/787.b0da207e.chunk.js",
     "static/media/hero.svg": "/defi-app-react/static/media/hero.b08317a7d52c6a2bd97f3b40bf20f8c5.svg",
     "static/media/dev.svg": "/defi-app-react/static/media/dev.19f6612f5fa374d900af28019eb357e4.svg",
@@ -22,12 +22,12 @@
     "static/media/paper.svg": "/defi-app-react/static/media/paper.787d56f59f2c311df111d1c34a58a7a6.svg",
     "static/media/search.svg": "/defi-app-react/static/media/search.517f20f7067ddc194ae21d1680c6b6ec.svg",
     "static/media/menu.svg": "/defi-app-react/static/media/menu.c16ad7d4e68aa1552ac6a30cd53b1cf8.svg",
-    "main.dfde5b12.css.map": "/defi-app-react/static/css/main.dfde5b12.css.map",
-    "main.47ca46d4.js.map": "/defi-app-react/static/js/main.47ca46d4.js.map",
+    "main.ab59e408.css.map": "/defi-app-react/static/css/main.ab59e408.css.map",
+    "main.849f3a05.js.map": "/defi-app-react/static/js/main.849f3a05.js.map",
     "787.b0da207e.chunk.js.map": "/defi-app-react/static/js/787.b0da207e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfde5b12.css",
-    "static/js/main.47ca46d4.js"
+    "static/css/main.ab59e408.css",
+    "static/js/main.849f3a05.js"
   ]
 }
